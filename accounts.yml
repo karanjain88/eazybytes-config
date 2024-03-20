@@ -1,0 +1,13 @@
+# Deleting all those properties which does not need externalization (which are different b/w different env/profiles)
+# Only properties which need externalization is mentioned below.
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)523-1345
