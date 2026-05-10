@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related prod APIs"
+  contactDetails:
+    name: "Prod Loans - Developer"
+    email: "prod@eazybank.com"
+  onCallSupport:
+    - (555)666-0876
+    - (555)777-1176

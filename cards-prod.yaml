@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Prod Card - Developer"
+    email: "prod@eazybank.com"
+  onCallSupport:
+    - (555)666-0876
+    - (555)777-1176

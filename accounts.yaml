@@ -1,0 +1,16 @@
+# This was the application.yaml from the accounts microservice. You can rename this file to what you've defined
+# in spring.application.name in accounts ms. Also, you can use only the portion of properties you want to externalize
+# (as we have used just the below properties) in config-server (classpath/file/github/cloud)
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name : "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)523-1345
+

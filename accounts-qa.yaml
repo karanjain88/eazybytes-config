@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to QA APIs"
+  contactDetails:
+    name : "QA Lead - Developer"
+    email: "qa@eazybank.com"
+  onCallSupport:
+    - (555)666-0876
+    - (555)777-1176

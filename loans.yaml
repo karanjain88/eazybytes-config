@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Default Card - Developer"
+    email: "default@eazybank.com"
+  onCallSupport:
+    - (555)666-0876
+    - (555)777-1176
