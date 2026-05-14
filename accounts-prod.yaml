@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to Production APIs"
+  message: "Welcome to EazyBank accounts related to prod APIs"
   contactDetails:
     name : "Prod Lead - Developer"
     email: "prod@eazybank.com"
